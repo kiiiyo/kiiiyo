@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643515397/14160/mario_wave.gif?1643515397" width="30"/>Hello World, I'm Kiiiyo</h1>
 
-<p>Welcome to my page! </br> I'm Takashi Kiyota, DesignEngineer from <b>Ibaraki, Japan</b>.</p>
+<p>Welcome to my page! </br> I'm Takashi Kiyota, <b>DesignEngineer</b> from Ibaraki, Japan.</p>
 
 <h3>Where to find me</h3>
 
